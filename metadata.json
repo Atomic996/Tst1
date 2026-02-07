@@ -1,0 +1,8 @@
+{
+  "name": "SocialBridge: Codex & Bulk Trade",
+  "description": "A mobile-first AI command center for content generation, Twitter analytics, and trending recommendations for the Codex and Bulk Trade ecosystems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
